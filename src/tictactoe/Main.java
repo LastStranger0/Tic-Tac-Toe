@@ -2,15 +2,6 @@ package tictactoe;
 
 import java.util.Scanner;
 
-/*
- * TODO:
- *  - поменяй местами проверку, чтобы она была в конце
- *  - в цикле while поменяй true на notfinished
- *  - поубирай рудиментарный код с прошлых этапов
- *  - добавь вывод если победа
- *  - сделай так чтобы X и О менялись
- */
-
 public class Main {
     public static void main(String[] args) {
 
